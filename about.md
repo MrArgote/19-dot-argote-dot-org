@@ -1,5 +1,6 @@
 ---
 layout: page
+nav-header: true
 title: About
 permalink: /about/
 ---
