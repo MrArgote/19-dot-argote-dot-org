@@ -1,7 +1,7 @@
 ---
 title: Slack
-nav-header: true
-nav-icon: /assets/slack-symbol.svg
+toolsPage: true
+icon: /assets/slack-symbol.svg
 students:
   savedSlackPassToLastPass:
     01: no
