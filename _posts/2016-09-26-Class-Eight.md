@@ -24,13 +24,15 @@ students:
     21: false
     22: 07
     23: false
-    24: false
+    24: 14
 
 ---
 
 ## LastPass Drill Race and Spectacles
 
 how quick are you to install LastPass extension and log-in?
+
+15 and higher show me vault.
 
 <style>
   .student-tasks-grid span {
