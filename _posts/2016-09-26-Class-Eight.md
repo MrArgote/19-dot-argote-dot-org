@@ -14,12 +14,12 @@ students:
     11: 05
     12: 06
     13: false
-    14: false
+    14: 15
     15: 08
     16: 11
     17: 10
     18: 09
-    19: false
+    19: 16
     20: false
     21: false
     22: 07
@@ -32,7 +32,7 @@ students:
 
 how quick are you to install LastPass extension and log-in?
 
-15 and higher show me vault.
+16 and higher show me vault.
 
 <style>
   .student-tasks-grid span {
