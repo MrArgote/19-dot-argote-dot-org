@@ -32,7 +32,7 @@ students:
 
 how quick are you to install LastPass extension and log-in?
 
-16 and higher show me vault.
+This time couldn't do it will demonstrate again next time.
 
 <style>
   .student-tasks-grid span {
