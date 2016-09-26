@@ -8,9 +8,9 @@ students:
     05: 01
     06: false
     07: 02
-    08: false
+    08: 13
     09: 03
-    10: false
+    10: 12
     11: 05
     12: 06
     13: false
@@ -28,6 +28,7 @@ students:
 
 ---
 
+## LastPass Drill Race and Spectacles
 
 how quick are you to install LastPass extension and log-in?
 
@@ -70,5 +71,6 @@ how quick are you to install LastPass extension and log-in?
 {% endfor %}
 </div>
 
+## Snap Spectacles
 
-
+<iframe width="854" height="480" src="https://www.youtube.com/embed/XqkOFLBSJR8" frameborder="0" allowfullscreen></iframe>
