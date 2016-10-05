@@ -1,4 +1,6 @@
 ---
+title: Class Eight --- LastPass Race and Spectacles
+computer-lab: true
 students:
   ranking:
     01: false
