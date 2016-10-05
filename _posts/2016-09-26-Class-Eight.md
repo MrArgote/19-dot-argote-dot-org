@@ -1,5 +1,5 @@
 ---
-title: Class Eight --- LastPass Race and Spectacles
+title: Class Eight - LastPass Race and Spectacles
 computer-lab: true
 students:
   ranking:
