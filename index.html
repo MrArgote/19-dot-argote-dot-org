@@ -4,7 +4,9 @@ layout: default
 
 <div class="home">
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtSnk1uctYYx_EvMlFqRmm7xFtcXTvrn5q8JrKdRjZVgoauA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+  <h2>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtSnk1uctYYx_EvMlFqRmm7xFtcXTvrn5q8JrKdRjZVgoauA/viewform"> You can take the test here. </a>
+  </h2>
 
   <h1 class="page-heading">Posts</h1>
 
@@ -16,6 +18,9 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
         </h2>
+        <p>
+          {{ post.content }}
+        </p>
       </li>
     {% endfor %}
   </ul>
