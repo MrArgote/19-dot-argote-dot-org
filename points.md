@@ -18,58 +18,112 @@ nav-icon: /assets/four-dots.svg
     background-color: #F65; }
 </style>
 
+<div class="student">
+  <div class="pyramid">
+    <div class="pyramid-top"></div>
+    <div class="trapezoid-level-3"></div>
+    <div class="trapezoid-level-2"></div>
+    <div class="trapezoid-level-1"></div>
+  </div>
+  <div class="pyramid">
+    <div class="trapezoid-level-2"></div>
+    <div class="trapezoid-level-1"></div>
+  </div>
+  <div class="pyramid">
+    <div class="pyramid-top"></div>
+    <div class="trapezoid-level-3"></div>
+    <div class="trapezoid-level-2"></div>
+    <div class="trapezoid-level-1"></div>
+  </div>
+</div>
+<div class="student">
+  <div class="pyramid">
+    <div class="trapezoid-level-1"></div>
+  </div>
+  <div class="pyramid">
+    <div class="pyramid-top"></div>
+    <div class="trapezoid-level-3"></div>
+    <div class="trapezoid-level-2"></div>
+    <div class="trapezoid-level-1"></div>
+  </div>
+  <div class="pyramid">
+    <div class="trapezoid-level-3"></div>
+    <div class="trapezoid-level-2"></div>
+    <div class="trapezoid-level-1"></div>
+  </div>
+</div>
 
-
-## Act I
+## Act II --- Talk on Slack about...
 
 <div class="student-tasks-grid" style="display:flex-wrap;">
   {% for student in site.data.textbookProgress.students %}
-    {% assign compSize = student[1].completed | size %}
+    <div class="yet-to-do">
+      <div class="number"> {{ student[0] }} </div>
+      <div class="student">
+      {% for assignment in student[1].completed.slack-act-ii %}
+        <div class="topic"> {{ assignment[0] }} </div>
+        {% assign pts = assignment[1] %}
+        <div class="pyramid">
+          {% if assignment[1] > 0 %}
+            {% if assignment[1] > 1 %}
+              {% if assignment[1] > 2 %}
+                {% if assignment[1] > 3 %}
+                  <div class="pyramid-top"></div>
+                {% endif %}
+                <div class="trapezoid-level-3"></div>
+              {% endif %}
+              <div class="trapezoid-level-2"></div>
+            {% endif %}
+            <div class="trapezoid-level-1"></div>
+          {% endif %}
+        </div>
+        <div class="num-of-points"> {{ pts }} </div>
+      {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+## Act I
+
+Textbook points are x2.
+
+<div class="student-tasks-grid" style="display:flex-wrap;">
+  {% for student in site.data.textbookProgress.students %}
+    {% assign compSize = student[1].completed.textbook | size %}
     <div class="
-    {% if compSize > 1 %}
-      done
-      {% else %}
-        yet-to-do
-    {% endif %}
+    {% if compSize > 1 %} done {% else %} yet-to-do {% endif %}
     ">
-      <div class="number">
-      {{ student[0] }}
+      <div class="number"> {{ student[0] }} </div>
+      <div>
+        {% if student[1].completed["quiz"] != empty %}
+          quiz: {{ student[1].completed["quiz"] }} pts.
+        {% endif %}
       </div>
       <div>
-      {% if student[1].completed["quiz"] != empty %}
-        quiz:
-        {{ student[1].completed["quiz"] }} points
-      {% endif %}
+        {% if student[1].completed.textbook["01"] != empty %}
+          unit 1: {{ student[1].completed.textbook["01"] }} pts.
+        {% endif %}
       </div>
       <div>
-      {% if student[1].completed["01"] != empty %}
-        unit 1:
-        {{ student[1].completed["01"] }} points x 2
-      {% endif %}
+        {% if student[1].completed.textbook["02"] != empty %}
+          unit 2: {{ student[1].completed.textbook["02"] }} pts.
+        {% endif %}
       </div>
       <div>
-      {% if student[1].completed["02"] != empty %}
-        unit 2:
-        {{ student[1].completed["02"] }} points x 2
-      {% endif %}
+        {% if student[1].completed.textbook["03"] != empty %}
+          unit 3: {{ student[1].completed.textbook["03"] }} pts.
+        {% endif %}
       </div>
       <div>
-      {% if student[1].completed["03"] != empty %}
-        unit 3:
-        {{ student[1].completed["03"] }} points x 2
-      {% endif %}
+        {% if student[1].completed.textbook["04"] != empty %}
+          unit 4: {{ student[1].completed.textbook["04"] }} pts.
+        {% endif %}
       </div>
       <div>
-      {% if student[1].completed["04"] != empty %}
-        unit 4:
-        {{ student[1].completed["04"] }} points x 2
-      {% endif %}
-      </div>
-      <div>
-      {% if student[1].completed["05"] != empty %}
-        unit 5:
-        {{ student[1].completed["05"] }} points x 2
-      {% endif %}
+        {% if student[1].completed.textbook["05"] != empty %}
+          unit 5: {{ student[1].completed.textbook["05"] }} pts.
+        {% endif %}
       </div>
     </div>
   {% endfor %}
