@@ -3,249 +3,324 @@ students:
     completed:
       comment: []
       quiz: [16]
-      "01": [1]
-      "02": [1]
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [1]
+        "02": [1]
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "02":
     completed:
       comment: ["no dropbox"]
       quiz: []
-      "01": []
-      "02": []
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": []
+        "02": []
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "03":
     completed:
       comment: ["pictures sideways, don't need page 8"]
       quiz: []
-      "01": [4]
-      "02": [3]
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [4]
+        "02": [3]
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "04":
     completed:
       comment: ["no dropbox"]
       quiz: [16]
-      "01": []
-      "02": []
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": []
+        "02": []
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "05":
     completed:
       comment: ["no dropbox"]
       quiz: [4]
-      "01": []
-      "02": []
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": []
+        "02": []
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "06":
     completed:
       comment: [""]
       quiz: []
-      "01": [4]
-      "02": [3]
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [4]
+        "02": [3]
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "07":
     completed:
       comment: [""]
       quiz: [21]
-      "01": [4]
-      "02": [3]
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [4]
+        "02": [3]
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "08":
     completed:
       comment: ["empty directory"]
       quiz: [18]
-      "01": []
-      "02": []
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": []
+        "02": []
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "09":
     completed:
       comment: ["no dropbox"]
       quiz: [16]
-      "01": []
-      "02": []
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": []
+        "02": []
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "10":
     completed:
       comment: [""]
       quiz: [21]
-      "01": [4]
-      "02": [3]
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [4]
+        "02": [3]
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "11":
     completed:
       comment: [""]
       quiz: [21]
-      "01": [4]
-      "02": [3]
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [4]
+        "02": [3]
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "12":
     completed:
       comment: [""]
       quiz: [16]
-      "01": [4]
-      "02": [3]
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [4]
+        "02": [3]
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "13":
     completed:
       comment: ["no need for page 8"]
       quiz: [20]
-      "01": [4]
-      "02": [3]
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [4]
+        "02": [3]
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "14":
     completed:
       comment: ["no need for pages 8, 12"]
       quiz: [21]
-      "01": [4]
-      "02": [3]
-      "03": [3]
-      "04": [4]
-      "05": [4]
-      "06": [4]
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [4]
+        "02": [3]
+        "03": [3]
+        "04": [4]
+        "05": [4]
+        "06": [4]
   "15":
     completed:
       comment: ["no dropbox"]
       quiz: [19]
-      "01": []
-      "02": []
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": []
+        "02": []
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "16":
     completed:
       comment: [""]
       quiz: [20]
-      "01": [4]
-      "02": [3]
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [4]
+        "02": [3]
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "17":
     completed:
       comment: ["should turn picture"]
       quiz: [21]
-      "01": [4]
-      "02": []
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 1
+      textbook:
+        "01": [4]
+        "02": []
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "18":
     completed:
       comment: ["should turn picture"]
       quiz: [19]
-      "01": [4]
-      "02": [3]
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [4]
+        "02": [3]
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "19":
     completed:
       comment: ["no dropbox"]
       quiz: []
-      "01": []
-      "02": []
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": []
+        "02": []
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "20":
     completed:
       comment: ["no dropbox"]
       quiz: []
-      "01": []
-      "02": []
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": []
+        "02": []
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   20:
     completed:
       comment: ["no dropbox"]
       quiz: []
-      "01": []
-      "02": []
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": []
+        "02": []
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "21":
     completed:
       comment: ["no dropbox"]
       quiz: []
-      "01": []
-      "02": []
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": []
+        "02": []
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "22":
     completed:
       comment: ["should turn picture"]
       quiz: [19]
-      "01": [4]
-      "02": []
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [4]
+        "02": []
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "23":
     completed:
       comment: ["should turn picture, no need for page 8 picture"]
       quiz: [21]
-      "01": [4]
-      "02": [3]
-      "03": []
-      "04": []
-      "05": []
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [4]
+        "02": [3]
+        "03": []
+        "04": []
+        "05": []
+        "06": []
   "24":
     completed:
       comment: [""]
       quiz: []
-      "01": [4]
-      "02": [3]
-      "03": [3]
-      "04": [4]
-      "05": [4]
-      "06": []
+      slack-act-ii:
+        "Día de Muertos": 0
+      textbook:
+        "01": [4]
+        "02": [3]
+        "03": [3]
+        "04": [4]
+        "05": [4]
+        "06": []
