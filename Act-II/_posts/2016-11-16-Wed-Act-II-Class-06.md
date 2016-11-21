@@ -1,6 +1,6 @@
 ---
 title: Act II — Class 06 — Trailers
-computer-lab:false
+computer-lab: false
 ---
 
 ## Class Notes
