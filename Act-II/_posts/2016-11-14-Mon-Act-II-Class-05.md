@@ -1,5 +1,5 @@
 ---
-title: Act II — Class 06 — Mannequin Challenge
+title: Act II — Class 05 — Mannequin Challenge
 computer-lab: false
 ---
 
