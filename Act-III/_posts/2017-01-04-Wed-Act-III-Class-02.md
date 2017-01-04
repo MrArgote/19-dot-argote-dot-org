@@ -4,7 +4,7 @@ computer-lab: false
 ---
 
 - Work/Life Balance Labor Law in France
-
+- Parkinson's Mannequin Challenge
 
 
 ## Work/Life Balance Labor Law in France
