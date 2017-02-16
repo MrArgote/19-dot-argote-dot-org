@@ -1,6 +1,6 @@
 ---
 title: Points
-header-nav: true
+header-nav: false
 nav-icon: /assets/four-dots.svg
 ---
 
