@@ -23,7 +23,7 @@ title: Archive
   <h1 class="page-heading">Fall of 2016 Posts</h1>
 
   <ul class="post-list">
-    {% assign posts = site.posts | where:"categories","Spring" %}
+    {% assign posts = site.posts | where:"categories","Fall" %}
     {% for post in posts %}
       <li{% if post.computer-lab == true %} class="computer-lab"{% endif %}>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
