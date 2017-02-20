@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Archive
 ---
+
 
 <style>
 .post-list > li {
@@ -15,9 +16,11 @@ layout: default
   }
 </style>
 
+
+
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Fall of 2016 Posts</h1>
 
   <ul class="post-list">
     {% assign posts = site.posts | where:"categories","Spring" %}
@@ -35,6 +38,7 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p>take a look at <a href="{{ "/archive/" | prepend: site.baseurl }}">old posts</a></p>
+  <p>take a look at <a href="{{ "/" | prepend: site.baseurl }}">current posts</a></p>
 
 </div>
+
