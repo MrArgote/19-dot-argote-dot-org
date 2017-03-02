@@ -1,6 +1,6 @@
 ---
 title: I-5 — Keep Away From
-computer-lab: false
+computer-lab: true
 ---
 
 - Words of Advice from Mark Twain
