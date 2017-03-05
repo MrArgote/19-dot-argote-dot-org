@@ -1,6 +1,6 @@
 ---
 title: Textbook Plan
-header-nav: true
+header-nav: false
 week_numbers:
   01: "Preview and discuss book"
   02: "Unit 1, Greetings"
