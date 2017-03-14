@@ -5,6 +5,16 @@ computer-lab: false
 
 - Reviewing Units 1, 2 and 3
 
+- Unit 1
+- Unit 2
+  - question words
+  - prepositions of time
+  - simple present
+  - present continuous
+- Unit 3
+  - imperatives
+  - go + -ing
+
 ## Unit 1
 
 Where do they live?  
