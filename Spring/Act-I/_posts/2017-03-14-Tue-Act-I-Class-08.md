@@ -69,15 +69,13 @@ Cindy eats an apple.
 ## go + -ing
 
 ### Simple Present
-I swim. --> I go swimming.
-I camp. --> I go camping.
-I shop. --> I go shopping.
+I swim. --> I go swimming.  
+I camp. --> I go camping.  
+I shop. --> I go shopping.  
 I hike. --> I go hiking.
 
-I study. --> I go studying. ??
-
 ### Continuous Present
-I am swimming. --> I am going swimming.
-I am camping. --> I am going camping.
-I am shopping. --> I'm going shopping.
+I am swimming. --> I am going swimming.  
+I am camping. --> I am going camping.  
+I am shopping. --> I'm going shopping.  
 I'm hiking. --> I'm going hiking.
