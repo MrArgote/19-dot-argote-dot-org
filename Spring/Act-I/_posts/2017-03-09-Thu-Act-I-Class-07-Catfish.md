@@ -1,5 +1,5 @@
 ---
-title: I-6 — Gone Fishing
+title: I-7 — Gone Fishing
 computer-lab: true
 ---
 
