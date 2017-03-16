@@ -1,5 +1,5 @@
 ---
-title: I-7 — Illusionist Pulled Over
+title: I-8 — Imperative Sentences & 'go + v-ing'
 computer-lab: false
 ---
 
