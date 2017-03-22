@@ -1,5 +1,5 @@
 ---
-title: Revision 1
+title: I-6 — Revision 1
 computer-lab: false
 ---
 
@@ -43,7 +43,7 @@ They are Greek.
 ## Unit 2
 
 
-question words
+### question words / wh- questions
 
 
 ... like 'What'
@@ -90,24 +90,6 @@ I bought them on Halloween.
 I bought them in 2015  
 I bought them in the afternoon.  
 
-### Simple Present.
-
-Gin eats noodles.  
-Does Gin eat noodles?  
-What does Gin eat?  
-Who eats noodles?  
-Why does Gin eat noodles?  
-She eats noodles because she's hungry.
-
-### Simple Continuous.
-Kelly is eating noodles.  
-Is Kelly eating noodles?  
-What is Kelly eating?  
-Who is eating noodles?  
-Why is Kelly eating noodles?  
-Kelly is eating noodles because she's hungry.  
-Kelly is eating noodles because she wants to.
-
 January  
 February  
 March  
@@ -128,6 +110,24 @@ Thursday
 Friday  
 Saturday  
 Sunday
+
+### Simple Present.
+
+Gin eats noodles.  
+Does Gin eat noodles?  
+What does Gin eat?  
+Who eats noodles?  
+Why does Gin eat noodles?  
+She eats noodles because she's hungry.
+
+### Simple Continuous.
+Kelly is eating noodles.  
+Is Kelly eating noodles?  
+What is Kelly eating?  
+Who is eating noodles?  
+Why is Kelly eating noodles?  
+Kelly is eating noodles because she's hungry.  
+Kelly is eating noodles because she wants to.
 
 ## Unit 3
 
