@@ -23,7 +23,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://19.argote.org" # the base hostname & protocol for your site
 twitter_username: MrArgote
 github_username:  MrArgote
-facebook_page: Conveyor-1913407308892245
+facebook_page_name: Conveyor
+facebook_page_url: Conveyor-1913407308892245
 
 # Build settings
 markdown: kramdown
