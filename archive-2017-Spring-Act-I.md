@@ -20,7 +20,7 @@ layout: default
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    {% assign posts = site.posts | where:"categories","Spring" | where:"categories", "Act-II" %}
+    {% assign posts = site.posts | where:"categories","Spring" | where:"categories", "Act-I" %}
     {% for post in posts %}
       {% assign currentdate = post.date | date: "%a, %B %d, %Y" %}
       {% if currentdate != date %}
@@ -42,6 +42,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p>take a look at <a href="{{ "/archive-2017-Spring-Act-I/" | prepend: site.baseurl }}">Posts from Act I of this semester (February and March 2017)</a></p>
+  <p>take a look at <a href="{{ "/archive-2016-fall/" | prepend: site.baseurl }}">last Fall's (2016) posts</a></p>
 
 </div>
