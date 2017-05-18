@@ -1,6 +1,6 @@
 ---
 title: III-1 — Hornbill Joins Workout Class
-computer-lab: false
+computer-lab: true
 ---
 
 
