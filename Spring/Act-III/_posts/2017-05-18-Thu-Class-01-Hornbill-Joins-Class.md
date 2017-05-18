@@ -1,5 +1,5 @@
 ---
-title: III-1 — Be, Have, Regular Verbs in Present and Past
+title: III-1 — Hornbill Joins Workout Class
 computer-lab: false
 ---
 
